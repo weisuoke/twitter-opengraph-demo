@@ -4,13 +4,13 @@ function App() {
   return (
     <>
       <FacebookShareButton
-        url="https://www.italki.com/languagechallenge"
+        url="https://og.codewithfelix.com/"
         hashtag="#italki"
       >
         <FacebookIcon />
       </FacebookShareButton>
       <TwitterShareButton
-        url="https://www.italki.com/languagechallenge"
+        url="https://og.codewithfelix.com/"
       >
         <TwitterIcon />
       </TwitterShareButton>
